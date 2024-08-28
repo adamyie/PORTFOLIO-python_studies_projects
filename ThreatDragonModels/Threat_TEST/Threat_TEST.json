@@ -286,14 +286,40 @@
                   "new": false,
                   "number": 7,
                   "score": "5"
+                },
+                {
+                  "id": "de02fa67-6dee-402a-afb4-e9ea45bedd17",
+                  "title": "Headquarter_DownTime",
+                  "status": "Open",
+                  "severity": "Low",
+                  "type": "Denial of service",
+                  "description": "This could occur when one of the third party control in the software's headquarter goes down and affect the entire users of the headquarters' server.",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 8,
+                  "score": "1"
+                },
+                {
+                  "id": "16bd1ae1-b998-4ff3-b287-e154542e520a",
+                  "title": "Data_interception",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "type": "Information disclosure",
+                  "description": "Data transferred potentially getting intercepted and stolen",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 9,
+                  "score": ""
                 }
               ],
               "threatFrequency": {
                 "spoofing": 1,
                 "tampering": 0,
                 "repudiation": 0,
-                "informationDisclosure": 2,
-                "denialOfService": 0,
+                "informationDisclosure": 3,
+                "denialOfService": 2,
                 "elevationOfPrivilege": 0
               }
             }
@@ -478,6 +504,6 @@
     ],
     "diagramTop": 2,
     "reviewer": "Admin",
-    "threatTop": 7
+    "threatTop": 9
   }
 }
