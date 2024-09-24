@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" version="24.7.16">
   <diagram name="Page-1" id="dCMBrZHZ_UhN5NfpCyCJ">
-    <mxGraphModel dx="2514" dy="1047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3217" dy="1483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,7 +118,7 @@
             <mxPoint x="80" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vpeIHx57n76zGfDnY5xr-34" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="vpeIHx57n76zGfDnY5xr-34" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="vpeIHx57n76zGfDnY5xr-113">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="159" y="760" as="sourcePoint" />
             <mxPoint x="159" y="1059" as="targetPoint" />
@@ -241,9 +241,6 @@
             <mxPoint x="158" y="1521" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vpeIHx57n76zGfDnY5xr-60" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rotation=90;strokeColor=#F7F7F7;" vertex="1" parent="1">
-          <mxGeometry x="139" y="957" width="40" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="vpeIHx57n76zGfDnY5xr-61" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="522" as="sourcePoint" />
@@ -357,6 +354,51 @@
             <mxPoint y="720" as="sourcePoint" />
             <mxPoint y="1060" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vpeIHx57n76zGfDnY5xr-103" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="801" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vpeIHx57n76zGfDnY5xr-104" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="880" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vpeIHx57n76zGfDnY5xr-105" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="957" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vpeIHx57n76zGfDnY5xr-107" value="" style="ellipse;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="198" y="828" width="72" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vpeIHx57n76zGfDnY5xr-108" value="" style="shape=or;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="777" width="28" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="vpeIHx57n76zGfDnY5xr-109" value="" style="ellipse;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="198" y="917" width="72" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vpeIHx57n76zGfDnY5xr-110" value="" style="points=[[0,0.5,0],[0.19,0.02,0],[0.59,0,0],[0.985,0.02,0],[1,0.5,0],[0.985,0.98,0],[0.59,1,0],[0.19,0.98,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.camera;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="545.5" y="477" width="27" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="vpeIHx57n76zGfDnY5xr-111" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.video_projector;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="214" y="893" width="40" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="vpeIHx57n76zGfDnY5xr-112" value="Screen Name" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iScreenNameBar;fillColor2=#000000;fillColor3=#ffffff;buttonText=;fontColor=#ffffff;fontSize=10;whiteSpace=wrap;align=center;sketch=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="107.75" y="898.25" width="111.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vpeIHx57n76zGfDnY5xr-114" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="vpeIHx57n76zGfDnY5xr-113">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159" y="760" as="sourcePoint" />
+            <mxPoint x="159" y="1059" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpeIHx57n76zGfDnY5xr-113" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rotation=90;strokeColor=#000000;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="139.5" y="1014" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vpeIHx57n76zGfDnY5xr-115" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-regular-vol-1/24/bx-circle-quarter-128.png;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="117" y="992" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vpeIHx57n76zGfDnY5xr-116" value="Screen Name" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iScreenNameBar;fillColor2=#000000;fillColor3=#ffffff;buttonText=;fontColor=#ffffff;fontSize=10;whiteSpace=wrap;align=center;sketch=0;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="225.25" y="1050" width="111.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vpeIHx57n76zGfDnY5xr-117" value="Screen Name" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iScreenNameBar;fillColor2=#000000;fillColor3=#ffffff;buttonText=;fontColor=#ffffff;fontSize=10;whiteSpace=wrap;align=center;sketch=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="336.75" y="897" width="111.5" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
