@@ -1510,7 +1510,7 @@
         <mxCell id="EmVLfPLTxoRHyKcNYMmJ-7" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Student Collaboration&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;Room&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="189" y="722.37" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EmVLfPLTxoRHyKcNYMmJ-8" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Guild Club&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;Storage Room&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="EmVLfPLTxoRHyKcNYMmJ-8" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Club Room or&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;FBL Room&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="227.82" y="560.87" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EmVLfPLTxoRHyKcNYMmJ-9" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;fillColor=#0050ef;strokeColor=#001DBC;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
